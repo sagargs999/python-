@@ -1,4 +1,3 @@
-# Grinding until I master Python. 
+# Grinding until I master Python
 
--mastering python
-
+solved leetcode problems
